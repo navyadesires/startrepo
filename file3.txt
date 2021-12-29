@@ -1,0 +1,2 @@
+Hello cat file3 using git bash
+[D
